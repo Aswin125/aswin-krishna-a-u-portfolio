@@ -1,0 +1,171 @@
+{
+  "settings": {
+    "name": "ASWIN KRISHNA A U",
+    "title": "Test Engineer",
+    "location": "India",
+    "summary": "Automation-focused software professional with 2 years of experience in testing and system configuration. Skilled in quality assurance and automation.",
+    "profileImage": "https://image2url.com/images/1761487375269-cc89abc1-f593-4a4d-b3dc-ef7fe82f890d.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:aswinkrish420@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#https://aswin.linkyhost.com"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Python",
+          "Flask",
+          "PHP",
+          "Manual Testing",
+          "AI/ML",
+          "SDLC/ STLC",
+          "MySql",
+          "React JS",
+          "HTML/CSS",
+          "Selenium Testing",
+          "Data Analytics",
+          "System Configuration",
+          "Client Communication",
+          "Leadership",
+          "Project Management",
+          "Team Work",
+          "Multitasking"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Wirpo Limited",
+          "position": "Associate Analyst - Test Engineer L1",
+          "period": "08/2024 - Present",
+          "description": "Successfully managed Configuration and testing tasks on All Channels such as STBA, ETBA & PCS for Defined Contribution projects, consistently recognized for reporting base issues/bugs and delivering high-quality results on time. Successfully led System Configuration and delivered multiple Defined Contribution (DC) projects. Received positive recognition's from Client Managers for my involvement in Projects"
+        },
+        {
+          "company": "Wirpo Limited",
+          "position": "Trainee",
+          "period": "02/2024 - 08/2024",
+          "description": "Completed testing activities on all channels for Defined Contribution (DC) projects and quickly adapted and learned new tools during the Trainee Period"
+        },
+        {
+          "company": "IBM",
+          "position": "IRM Data Science Professional",
+          "period": "09/2022 - 02/2023",
+          "description": "Built a Machine Learning model as part of the internship and created a web application to predict loan approval eligibility. Enhanced my experience in the following technologies Python, ML, Flask, HTML, CSS, MySql"
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Smart Lender Applicant For Loan Approval Process",
+          "description": "Smart Lender Applicant is a ML model for detecting loan approval eligibility",
+          "tags": [
+            "ML",
+            "Loan Approval"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        },
+        {
+          "title": "A Real Time Fake News Predictor",
+          "description": "Fake News Detector is a ML model for detecting a real time news is fake or not",
+          "tags": [
+            "ML",
+            "Fake News Detection"
+          ],
+          "previewUrl": null,
+          "repoUrl": null
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "KARPAGAM INSTITUTE OF TECHNOLOGY",
+          "degree": "B-Tech in Information Technology",
+          "period": "2019 - 2023"
+        },
+        {
+          "institution": "Kongu Vellalar Matric Hr Sec School, Karur, Tamil Nadu",
+          "degree": "CLASS XII",
+          "period": "2018 - 2019"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": false,
+      "title": "Achievements & Certifications",
+      "items": []
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "aswinkrish420@gmail.com",
+      "phone": "6382522956",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/aswin-krishna-a-u",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 ASWIN KRISHNA A U. All rights reserved."
+  }
+}
